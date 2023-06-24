@@ -91,7 +91,7 @@ $ npm run start
 <br><br>
 
 ### 로그인 페이지
-<img width="329" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbEATxA%2Fbtsk80AgoQ0%2FKajcGTGHkgKyCtU9xTqqS0%2Fimg.jpg"/>
+<img width="329" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcdoRqX%2Fbtsk9ekFDhL%2F7lGact2KrEkvnU7Q54eXO1%2Fimg.jpg"/>
 <br><br>
 
 ### 시간표 생성 페이지1
