@@ -59,10 +59,10 @@ function Show() {
               <div class = "profile">
                 <img class= "humanimage" src={img} width="200px"   />
                 <div class = "information" style={{color :"rgb(121, 122, 123)",fontWeight:600}} >
-                   201802083  심준보
+                   201903322  정호영
                    <br>
                    </br>
-                   정보통신공학과/4학년
+                   정보통신공학과/3학년
             
               </div>
               </div>
