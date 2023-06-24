@@ -1,0 +1,6 @@
+package com.fts.hackathon.model;
+
+public enum Keyword {
+    GOODLECTURE, MANYEXAM, OPENBOOK, HIGHGRADE, TEAMPROJECT, MANYASSIGNMENT, EARLYSTOPPING, NONE
+
+}

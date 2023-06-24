@@ -1,0 +1,180 @@
+
+.backshow{
+    background-color: rgb(236,236,236);
+}
+.show1{
+    float:left;
+    margin-top:20px;
+    margin-right:60px;
+   
+
+
+}
+
+.title{
+    color:darkblue;
+  
+}
+
+
+
+.show11{
+    margin-top: 80px;
+    width:400px;
+    height:340px;
+    margin-left: 10px;
+    margin-right: 15px;
+
+   
+    
+    
+}
+
+.show111{
+    color:darkblue;
+    
+
+}
+
+.show112{
+    margin-top:10px;
+    margin-left:4px;
+    width:380px;
+    height:270px;
+    border-right: 3px solid rgb(0, 84, 121);
+
+}
+
+.profile{
+  
+    margin-left:1px;
+    width:240px;
+    height:240px;
+    
+}
+.humanimage{
+    
+    margin-left: 80px;
+    border-radius: 3px ;
+    width: 280px;
+    height:260px;
+    border: 4px solid rgb(0,84,121);
+    border-radius: 10%;
+   
+    
+
+}
+.information{
+    margin-top:13px;
+    margin-left:110px;
+    width: 180px;
+    height: 240px;
+    color:rgb(0, 84, 121);
+    font-size: 18px;
+    
+  
+    
+    
+}
+.show12{
+    margin-top:100px;
+    margin-left: 50px;
+    margin-right: 40px;
+    font-size: 20px;
+
+
+}
+.show120{
+    margin-bottom:12px;
+
+}
+.show121{
+    margin-top: 5px;
+    height:40px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid darkblue;
+}
+.show122{
+    margin-top: 5px;
+    height:40px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid darkblue;
+    
+}
+.show123{
+    margin-top: 5px;
+    height:40px;
+    border-bottom: 1px solid darkblue;
+    margin-bottom: 160px;
+}
+
+
+
+
+.show2{
+    float:left;
+    margin-top:100px;
+    margin-right:120px;
+    width:60%;
+    
+    
+
+}
+
+
+.show21{
+    margin-right:20px;
+    margin-bottom: 350px;
+    border-top: 4px solid rgb(0, 84, 121);
+}
+
+
+.show22{
+    
+    margin-right:40px;
+    margin-bottom: 10px;
+    border-top: 4px solid rgb(0, 84, 121);
+    
+}
+
+.show23{
+   
+    margin-right:30px;
+    margin-bottom: 50px;
+    border-top: 4px solid rgb(0, 84, 121);
+}
+
+
+.center1{
+    float:left;
+    width:60%;
+    
+    
+    
+
+}
+
+
+.center2{
+    float:left;
+    margin-left:300px;
+
+    margin-top:90px;
+  
+
+}
+
+
+.pie1{
+    float:left;
+ 
+}
+
+
+.pie2{
+    float:left;
+}
+
+.pie3{
+    float:left;
+}

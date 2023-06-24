@@ -1,0 +1,45 @@
+.background {
+    background-image: url('../img/hufss.jpg');
+    width:1920px;
+    height:1084px;
+    background-repeat: no-repeat;
+    
+}
+.form1{
+    float:left;
+    width:20%;
+    margin-top:555px;
+    margin-left:300px;
+
+}
+.form2{
+    float:left;
+    width:50%;
+    
+    margin-top:-104px;
+    margin-left: 2px;
+  
+}
+
+.id{
+    
+    width:500px;
+    height: 60px;  
+}
+
+.password{
+     
+    width:500px;
+    height: 60px;
+}
+
+
+.loginbutton{
+
+    width: 60px;
+    height:150px;
+   
+  
+}
+
+

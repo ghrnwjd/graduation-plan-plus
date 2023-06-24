@@ -1,0 +1,11 @@
+@font-face {
+	font-family: "IBMPlexSans";
+	src: url(./asset/IBM_Plex_Sans_KR/IBMPlexSansKR-SemiBold.ttf);
+}
+
+
+
+
+:root {
+	--font-IBMPlexSans: "IBMPlexSans";
+}

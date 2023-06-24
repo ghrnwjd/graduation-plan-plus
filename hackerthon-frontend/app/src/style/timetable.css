@@ -1,0 +1,232 @@
+
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-style: normal;
+    font-weight: 300;
+    src: url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.eot');
+    src: url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.eot?#iefix') format('embedded-opentype'), url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.woff') format('woff'), url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.ttf') format('truetype');
+   }
+
+
+.timetable1{
+    font-family: 'NanumBarunGothic';
+
+    float:left;
+    margin-top:130px;
+    margin-right:40px;
+    margin-left:30px;
+    background-color: rgb(236,236,236);
+    border-radius: 10%;
+    width:400px;
+    height:700px;
+    
+
+}
+
+.timetable1title{
+    color:darkblue;
+    
+}
+
+
+.firsttable,.secondtable,.thirdtable,.fourtable{
+    
+    
+
+    height:40px;
+    font-weight: 700;
+    border-bottom: 2px solid rgb(0, 84, 121);
+    font-size: 20px;
+    color: rgb(0, 84, 121);
+    margin-left: 4px;
+   
+
+}
+
+    
+    
+
+
+.timetable111{
+    color:darkblue;
+    
+
+}
+
+.timetable112{
+    margin-top:10px;
+    margin-left:4px;
+    width:380px;
+    height:270px;
+    border: 1px solid darkblue;
+    background-color: burlywood
+}
+
+.timetable1profile{
+
+    margin-left:1px;
+    width:5px;
+    height:10px;
+    
+}
+.timetable1humanimage{
+    margin-top: 23px;
+    margin-left: 8px;
+    border: 1px solid darkblue;
+    width: 180px;
+    
+
+}
+.timetable1information{
+    margin-top:13px;
+    margin-left:195px;
+    width: 180px;
+    height: 240px;
+    color:darkblue;
+    
+  
+    
+    
+}
+.timetable12{
+    margin-top:100px;
+    margin-left: 10px;
+    margin-right: 15px;
+
+
+}
+.timetable120{
+    margin-bottom:12px;
+
+}
+.timetable121{
+    margin-top: 5px;
+    height:40px;
+    margin-bottom: 15px;
+    border: 1px solid darkblue;
+}
+.timetable122{
+    margin-top: 5px;
+    height:40px;
+    margin-bottom: 15px;
+    border: 1px solid darkblue;
+    
+}
+.timetable123{
+    margin-top: 5px;
+    height:40px;
+    border: 1px solid darkblue;
+    margin-bottom: 160px;
+}
+
+
+.timetable2{
+    float:left;
+    margin-top:20px;
+    margin-right:100px;
+    width:40%;
+    
+
+}
+
+.intro-logoss{
+    width:60px;
+    height: 60px;
+    margin-left:900px;
+}
+.intro-logosss{
+    width:400px;
+    height: 110px;
+    margin-left:550px;
+}
+
+.intro-logossss{
+    width:400px;
+    height: 600px;
+    margin-right:100px;
+  
+}
+.nametable{
+    float:left;
+    width:1000px;
+    border-bottom: 1px solid rgb(0, 84, 121);;
+}
+
+.semester{
+    margin-top:30px;
+    float:left;
+    width:300px;
+    height:600px;
+    border: 1px solid darkblue;
+
+}
+.cutecute{
+    margin-left:840px;
+}
+
+.time{
+    margin-top:30px;
+    float:left;
+    width:1000px;
+    height:600px;
+    background-color: rgb(236,236,236);
+    border-radius: 10%;
+    
+}
+.imgimgimg{
+    float:left;
+    width:5%;
+    margin-top:270px;
+    margin-left:150px;
+}
+.realtime{
+    float:left;
+    margin-top:40px;
+    margin-left:30px;
+}
+
+
+.midle{
+    margin-top:30px;
+    float:left;
+    width:60px;
+    height:600px;
+    background-color: rgb(236,236,236);
+
+}
+
+
+.plus{
+    width:50px;
+    height:50px;
+    margin-left: 170px;
+    margin-top: 30px;
+}
+
+.zoom{
+    margin-top:3px;
+    margin-left:100px;
+    width:30px;
+    height:30px;
+}
+
+.zoom2{
+    margin-top:3px;
+    margin-left:200px;
+    width:30px;
+    height:30px;
+}
+
+.zoom3{
+    margin-top:3px;
+    margin-left:80px;
+    width:30px;
+    height:30px;
+}
+
+.zoom4{
+    margin-top:3px;
+    margin-left:180px;
+    width:30px;
+    height:30px;
+}

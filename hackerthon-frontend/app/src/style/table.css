@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-style: normal;
+    font-weight: 300;
+    src: url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.eot');
+    src: url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.eot?#iefix') format('embedded-opentype'), url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.woff') format('woff'), url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.ttf') format('truetype');
+   }
+
+
+.realtable {
+    width: 90%;
+    height:40%;
+    border:1px solid rgb(0,85,121)
+
+
+
+}
+.trtr  {
+    font-family: 'NanumBarunGothic';
+    width:150px;
+    height:45px;
+    border: 1px solid rgb(0,85,121);
+    
+}
