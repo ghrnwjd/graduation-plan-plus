@@ -79,7 +79,25 @@ $ npm run start
 ## 화면 구성 📺
 
 
-### 시작 페이지
+| 시작 페이지 | 로그인 페이지 |
+| :--------: | :----------: |
+|<img width="329" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbEATxA%2Fbtsk80AgoQ0%2FKajcGTGHkgKyCtU9xTqqS0%2Fimg.jpg"/>|<img width="329" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcdoRqX%2Fbtsk9ekFDhL%2F7lGact2KrEkvnU7Q54eXO1%2Fimg.jpg"/>|
+
+| 메인 페이지 | 상세 페이지 |
+| :--------: | :----------: |
+|<img width="329" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FXpesA%2Fbtslb7jWDqO%2F4Xmyvc0IzVfm3FK9KVLKo1%2Fimg.jpg"/>|<img width="329" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcgd3dV%2FbtslahnxjVS%2FWJhEkIckY7zFu0KyKuQGU0%2Fimg.jpg"/>|
+
+
+| 시간표 생성 | 채팅 기반 시간표 생성|
+| :--------: | :----------: |
+|<img width="329" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCXZgM%2FbtslaILWV0A%2Fs4xiNIdhjnxRo5vk1DKkd0%2Fimg.jpg"/>|<img width="329" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FoG4ky%2FbtslaILWV3s%2FAlbJHcKCiJOJ36dA0pnkd1%2Fimg.jpg"/>|
+
+
+| 시간표 상세설정1 | 시간표 상세설정2 |
+| :--------: | :----------: |
+|<img width="329" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbqmyCS%2FbtslcCYp4fz%2FPJq4ch3k0a9582Fuv9I1vK%2Fimg.jpg"/>|<img width="329" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FHCOs4%2FbtslaZ7KuJV%2F0SYZO08B5zz9slkgJAzw11%2Fimg.jpg"/>|
+
+<!-- ### 시작 페이지
 <img width="329" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbEATxA%2Fbtsk80AgoQ0%2FKajcGTGHkgKyCtU9xTqqS0%2Fimg.jpg"/>
 <br><br>
 
@@ -114,9 +132,7 @@ $ npm run start
 
 ### 시간표 상세설정2
 
-<img width="329" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FHCOs4%2FbtslaZ7KuJV%2F0SYZO08B5zz9slkgJAzw11%2Fimg.jpg"/>
-
-
+<img width="329" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FHCOs4%2FbtslaZ7KuJV%2F0SYZO08B5zz9slkgJAzw11%2Fimg.jpg"/> -->
 
 ---
 ## 주요 기능 
