@@ -47,11 +47,9 @@ $ cd hackerthon-backend
 
 #### Frontend
 ```
-$ cd hackerthon-backend/app
+$ cd hackerthon-frontend/app
 $ npm run start
 ``` 
-
-
 
 ---
 
