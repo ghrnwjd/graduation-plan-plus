@@ -51,6 +51,8 @@ $ cd hackerthon-backend/app
 $ npm run start
 ``` 
 
+
+
 ---
 
 ## Stacks 🐈
@@ -118,6 +120,12 @@ $ npm run start
 - 체크박스 선택으로 원하는 과목을 선택할 수 있으며, 입력 텍스트에 대해서도 키워드와 매칭하여 수업을 추천한다.
 
 ---
+
+## [API 명세서 바로가기](https://github.com/hufsice/graduation-plan-plus/blob/main/hackerthon_backend/RESTAPI.pdf)
+
+---
+
+
 ## 아키텍쳐
 
 ### 디렉토리 구조
